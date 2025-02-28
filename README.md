@@ -1,4 +1,4 @@
-**Meezan Bank App – 2025 Redesign** 📱✨  
+## **Meezan Bank App – 2025 Redesign** 📱✨  
 
 This project is a **redesign concept** for the **Meezan Bank** mobile application, aimed at providing **a modern, clean, and user-friendly experience for both Android and iOS users**. The redesign focuses on improving usability, navigation, and overall aesthetics to make **digital banking** more accessible and efficient.
 
